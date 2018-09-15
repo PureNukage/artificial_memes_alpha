@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "54cf8b3f-6ffd-4cad-9e0d-c70985f16453",
+            "Value": {
+                "id": "5f88cda2-ca98-4fbd-a7e7-9d7ce8398579",
+                "resourcePath": "objects\\o_conveyor_stop\\o_conveyor_stop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a0168f1-bb84-4bee-9760-920ab38dd40b",
             "Value": {
                 "id": "e8ea8bb1-3020-4f61-817a-6c73670c5a83",
