@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "70cac9d7-38ff-4cff-8412-f4078a1157f2",
+            "Value": {
+                "id": "b87a239f-812f-4ac7-932e-f5bb60fd1abf",
+                "resourcePath": "objects\\o_conveyor_corner\\o_conveyor_corner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "819b2571-ad8b-464c-b653-ccef116b3678",
             "Value": {
                 "id": "3cd9fc03-b8ab-45fc-bf08-828a641571b1",
