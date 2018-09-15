@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "e4fe6195-0a94-4fc0-b6c8-e3ead9ac0570",
+            "Value": {
+                "id": "906994ce-cfb7-4215-a50b-39bcf3f8ba2d",
+                "resourcePath": "sprites\\s_conveyor_belt\\s_conveyor_belt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "05b72049-5a91-44ba-8e77-45e9db84f858",
